@@ -1,0 +1,27 @@
+/* light */
+@font-face {
+    font-family: "Klavika";
+    src: url(../assets/fonts/klavika-light.woff);
+    font-weight: 300;
+}
+
+/* regular */
+@font-face {
+    font-family: "Klavika";
+    src: url(../assets/fonts/klavika-regular.woff);
+    font-weight: 400;
+}
+
+/* medium */
+@font-face {
+    font-family: "Klavika";
+    src: url(../assets/fonts/klavika-medium.woff);
+    font-weight: 500;
+}
+
+/* bold */
+@font-face {
+    font-family: "Klavika";
+    src: url(../assets/fonts/klavika-bold.woff);
+    font-weight: 600;
+}
