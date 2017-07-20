@@ -180,3 +180,28 @@ p {
 	}
 
 }
+
+@media screen and (max-width: 600px) {
+
+	body,html {
+		font-size: 12px;
+	} 
+
+	.controls-left {
+		flex-direction: column;
+	}
+
+	.section-info-container {
+		margin-top: 5px;
+	}
+
+	.numbers-list {
+	height: 16px;
+}
+
+.number-item-span {
+	width: 22px;
+	height: 16px;
+}
+
+}
